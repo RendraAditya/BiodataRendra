@@ -50,7 +50,7 @@ h2 {
   font-size: 0.9rem;
   text-align: center;
 }
-.bio-desc p:hover {
+.bio-desc p:hover, h2:hover {
   color: #1e3c72;
 }
 
